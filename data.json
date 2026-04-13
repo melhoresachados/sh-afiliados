@@ -2,7 +2,8 @@
   "account": "shein",
   "account_name": "Seu Look Perfeito Aqui",
   "theme_color": "#111111",
-  "updated_at": "2026-04-13T10:25:29.618483",
+  "updated_at": "2026-04-13T10:43:57.261408",
   "products": [],
-  "theme_text_color": "#FFFFFF"
+  "theme_text_color": "#FFFFFF",
+  "header_banner_url": "images/header-banner.png"
 }

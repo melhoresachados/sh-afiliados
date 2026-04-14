@@ -2,21 +2,8 @@
   "account": "shein",
   "account_name": "Seu Look Perfeito Aqui",
   "theme_color": "#111111",
-  "updated_at": "2026-04-14T19:53:47.203566",
+  "updated_at": "2026-04-14T20:32:03.425626",
   "products": [
-    {
-      "id": "9b7bada9-f56d-4323-8f82-8519192b3934",
-      "num": 3,
-      "name": "Bolsa Ombro Artesanal",
-      "price": "",
-      "affiliate_url": "https://br.shein.com/MilyModa-Handmade-Crochet-Shoulder-Bag-Fashion-Casual-New-Hollow-Knitted-Beach-Bag-Seaside-Holiday-Women-s-Handbag-p-160958892.html",
-      "image_url": "https://pub-971b79479fa9403d85ad248676016997.r2.dev/shein/images/produto_3_bolsa-ombro-artesanal.jpg",
-      "badge_text": "Super Oferta!",
-      "has_coupon": false,
-      "is_flash": true,
-      "is_popular": false,
-      "published_at": "2026-04-14 19:53"
-    },
     {
       "id": "25d374df-b3fc-4e13-9a61-95061c9b041d",
       "num": 2,

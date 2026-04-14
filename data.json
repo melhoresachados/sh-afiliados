@@ -2,8 +2,22 @@
   "account": "shein",
   "account_name": "Seu Look Perfeito Aqui",
   "theme_color": "#111111",
-  "updated_at": "2026-04-13T14:51:09.572169",
-  "products": [],
+  "updated_at": "2026-04-14T03:16:55.108041",
+  "products": [
+    {
+      "id": "b8b11262-68b5-4999-886f-67ada8c47fb1",
+      "num": 1,
+      "name": "Camisa linho Manga Longa",
+      "price": "",
+      "affiliate_url": "https://onelink.shein.com/2/5mdq056vtzky",
+      "image_url": "https://pub-971b79479fa9403d85ad248676016997.r2.dev/shein/images/produto_1_camisa-linho-manga-longa.jpg",
+      "badge_text": "Cupom Disponivel!",
+      "has_coupon": true,
+      "is_flash": true,
+      "is_popular": true,
+      "published_at": "2026-04-14 03:08"
+    }
+  ],
   "theme_text_color": "#FFFFFF",
   "header_banner_url": "images/header-banner.png"
 }

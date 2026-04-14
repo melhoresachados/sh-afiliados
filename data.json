@@ -2,8 +2,21 @@
   "account": "shein",
   "account_name": "Seu Look Perfeito Aqui",
   "theme_color": "#111111",
-  "updated_at": "2026-04-14T20:32:03.425626",
+  "updated_at": "2026-04-14T20:39:55.160596",
   "products": [
+    {
+      "id": "9b7bada9-f56d-4323-8f82-8519192b3934",
+      "num": 3,
+      "name": "Bolsa de Ombro Artesanal",
+      "price": "",
+      "affiliate_url": "https://onelink.shein.com/2/5micxdpjeplt",
+      "image_url": "https://pub-971b79479fa9403d85ad248676016997.r2.dev/shein/images/produto_3_bolsa-de-ombro-artesanal.jpg",
+      "badge_text": "Super Oferta!",
+      "has_coupon": false,
+      "is_flash": true,
+      "is_popular": false,
+      "published_at": "2026-04-14 20:39"
+    },
     {
       "id": "25d374df-b3fc-4e13-9a61-95061c9b041d",
       "num": 2,

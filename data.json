@@ -2,21 +2,8 @@
   "account": "shein",
   "account_name": "Seu Look Perfeito Aqui",
   "theme_color": "#111111",
-  "updated_at": "2026-04-14T21:31:44.403066",
+  "updated_at": "2026-04-14T21:53:20.602366",
   "products": [
-    {
-      "id": "9b7bada9-f56d-4323-8f82-8519192b3934",
-      "num": 3,
-      "name": "Bolsa de Tote",
-      "price": "",
-      "affiliate_url": "https://onelink.shein.com/2/5mip5lhs9qtc",
-      "image_url": "https://pub-971b79479fa9403d85ad248676016997.r2.dev/shein/images/produto_3_bolsa-de-tote.jpg",
-      "badge_text": "Cupom Disponivel!",
-      "has_coupon": true,
-      "is_flash": true,
-      "is_popular": true,
-      "published_at": "2026-04-14 21:31"
-    },
     {
       "id": "25d374df-b3fc-4e13-9a61-95061c9b041d",
       "num": 2,

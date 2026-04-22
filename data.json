@@ -2,8 +2,21 @@
   "account": "shein",
   "account_name": "Seu Look Perfeito Aqui",
   "theme_color": "#111111",
-  "updated_at": "2026-04-20T18:55:22.420671",
+  "updated_at": "2026-04-21T22:28:03.910149",
   "products": [
+    {
+      "id": "38293062",
+      "num": 5,
+      "name": "Bolsa de Ombro BeWell",
+      "price": "R$ 79,84",
+      "affiliate_url": "https://onelink.shein.com/4/5n8cvoi0dnh4",
+      "image_url": "https://pub-971b79479fa9403d85ad248676016997.r2.dev/shein/images/produto_5_bolsa-de-ombro-bewell.jpg",
+      "badge_text": "Super Oferta!",
+      "has_coupon": false,
+      "is_flash": true,
+      "is_popular": true,
+      "published_at": "2026-04-21 22:27"
+    },
     {
       "id": "1db0296f-4867-42cb-baae-e13a5d7f7aff",
       "num": 4,
